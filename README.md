@@ -6,7 +6,7 @@
 ## 👋 About Me
 
 - 🎓 Master’s in Computer Science @ University of Cincinnati  
-- 💼 Experience at ADP  
+- 💼 Experience at ADP( Role: Member Technical)  
 - 🚀 Built PinIT – full-stack application  
 
 - 🔭 Currently building **ETL pipelines using Python & SQL**  
