@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vaishnavi Manne</h1>
+<h3 align="center"> MS in Computer Science</h3>
 
-<!--
-**mannevi/mannevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Master’s in Computer Science @ University of Cincinnati  
+- 💼 Experience at ADP  
+- 🚀 Built PinIT – full-stack application  
+
+- 🔭 Currently building **ETL pipelines using Python & SQL**  
+- 🌱 Exploring **Data Engineering & Cloud systems**  
+
+- 💬 Ask me about **Python, SQL, ETL pipelines, Backend systems**
+
+---
+
+## 🚀 Projects
+
+### 🌤️ Weather ETL Pipeline
+- Built a complete ETL pipeline using Python, REST API, SQLite, and SQL  
+- Automated data extraction, transformation, and reporting  
+- Generated analytics-ready CSV reports  
+
+### 🔐 PinIT Application
+- Full-stack system for image authentication & forensic analysis  
+- Built backend APIs and mobile/web integration  
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sqlite,postgres,git,github" />
+</p>
+
+---
+
+
+
+
+
+⭐️ *Always learning and building real-world data systems*
