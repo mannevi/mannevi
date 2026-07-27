@@ -75,9 +75,6 @@ Remote, United States
 
 **Configuration Analyst — Benefits, National Account Services** — ADP India *(Aug 2023 – Aug 2024)*
 Hyderabad, India
-- Authored complex SQL queries and Splunk searches to validate payroll and carrier data across 50+ national accounts; automated data quality rules improved extraction efficiency by 20%
-- Configured and maintained 50+ enterprise Health & Welfare benefit plans; reduced downstream errors by 25% via improved data integrity and audit traceability
-- Processed and validated structured EDI carrier feed data supporting healthcare eligibility and benefits transactions
 
 **Data Analyst** — OM Systems and Services Private Limited *(Jan 2022 – Aug 2023)*
 Hyderabad, India
