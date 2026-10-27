@@ -212,7 +212,7 @@ I'm a **Data Engineer with 5+ years of experience** building and optimizing supp
 
 ### Master of Engineering in Computer Science
 **University of Cincinnati** · Cincinnati, OH  
-Aug 2024 – May 2026 | **GPA: 3.8/4.0**
+Aug 2024 – April 2026 | **GPA: 3.8/4.0**
 
 ---
 
